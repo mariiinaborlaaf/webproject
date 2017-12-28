@@ -1,12 +1,13 @@
 h1 {
   color: coral;
 }
-h2{
-  background-color: lightblue;
-}
+
 body{
-  background-color: azure;
+  background-color: white;
 }
 h3 a{
   color:coral;
+}
+body{
+  background-image: url("https://www.solofondos.com/wp-content/uploads/2017/08/paper2b3.jpg");
 }
