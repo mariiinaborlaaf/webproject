@@ -1,6 +1,12 @@
 h1 {
-  color: pink;
+  color: coral;
 }
 h2{
   background-color: lightblue;
+}
+body{
+  background-color: azure;
+}
+h3 a{
+  color:coral;
 }
